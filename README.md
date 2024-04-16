@@ -1,6 +1,6 @@
 # Hello World
 
-Welcome to Hello World on Exercism's Python Track.
+Welcome to Hello World on Exercism's Python Track. This is my 1st Exercise.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
